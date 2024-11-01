@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptPrint", "ReceiptPrint.csproj", "{7070BCA3-4C08-431D-87F3-FFDF85670915}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EasyeatSetUp", "..\EasyeatSetUp\EasyeatSetUp.vdproj", "{7C94C388-C903-448B-99C7-76412D7C50CA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EAsyeatSetUpa", "..\EAsyeatSetUpa\EAsyeatSetUpa.vdproj", "{CC6F5C70-8449-49EA-B84C-91170EFE98FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7070BCA3-4C08-431D-87F3-FFDF85670915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7070BCA3-4C08-431D-87F3-FFDF85670915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7070BCA3-4C08-431D-87F3-FFDF85670915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7070BCA3-4C08-431D-87F3-FFDF85670915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C94C388-C903-448B-99C7-76412D7C50CA}.Debug|Any CPU.ActiveCfg = Debug
+		{7C94C388-C903-448B-99C7-76412D7C50CA}.Release|Any CPU.ActiveCfg = Release
+		{CC6F5C70-8449-49EA-B84C-91170EFE98FB}.Debug|Any CPU.ActiveCfg = Debug
+		{CC6F5C70-8449-49EA-B84C-91170EFE98FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AB02675-490B-40F3-BD41-D7F304AB2A67}
+	EndGlobalSection
+EndGlobal

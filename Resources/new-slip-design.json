@@ -1,0 +1,589 @@
+{
+  "type": "cash-in",
+  "ptr_name": "192.168.1.200:9100",
+  "pr_width": "72",
+  "data": [
+    {
+      "key": "img",
+      "value": "https://d1xkxcid7icwfl.cloudfront.net/restaurant_image/c49dee80aeee27ab5e19689fcec88480_1624605220.png",
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "JIBRIL"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "EASY EAT SDN BHD"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "CO. NO. 123456789"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "LG24, LG FLOOR DA MEN MALL USJ"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "PERSIARAN MASJID, SHAH ALAM"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "SELANGOR, MALAYSIA"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": ""
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "SST NO: B16-2011-32100018"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": ""
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "DINE-IN, HOME DELIVERY & TAKEAWAY"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "WWW.JIBRIL.COM"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "019 291 4801"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": ""
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "FOLLOW US ON INSTAGRAM"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "@JIBRIL"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "* UNPAID *"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "ORDER: "
+        },
+        {
+          "name": "#71976315"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "NUMBER OF ITEMS: "
+        },
+        {
+          "name": "3"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "DATE: "
+        },
+        {
+          "name": "2021-10-12"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "TIME: "
+        },
+        {
+          "name": "02:18 AM"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "TABLE: "
+        },
+        {
+          "name": "C3"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "DINE IN"
+        }
+      ],
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "NAME: "
+        },
+        {
+          "name": "EASYEAT USER"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "QTY",
+          "fw": 6,
+          "fa": "l"
+        },
+        {
+          "name": "ITEM NAME",
+          "fa": "l"
+        },
+        {
+          "name": "AMOUNT",
+          "fw": 10,
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "1",
+          "fw": 6,
+          "fa": "l"
+        },
+        {
+          "name": "CORONA",
+          "fa": "l"
+        },
+        {
+          "name": "RM 30.00",
+          "fw": 10,
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "1",
+          "fw": 6,
+          "fa": "l"
+        },
+        {
+          "name": "BEER (SET OF 4)",
+          "fa": "l"
+        },
+        {
+          "name": "RM 20.00",
+          "fw": 10,
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "1",
+          "fw": 6,
+          "fa": "l"
+        },
+        {
+          "name": "SHREK MOJITO",
+          "fa": "l"
+        },
+        {
+          "name": "RM 25.00",
+          "fw": 10,
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "SUB-TOTAL: "
+        },
+        {
+          "name": "RM 75.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "DISCOUNT: "
+        },
+        {
+          "name": "RM 0.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "SERVICE CHARGE @11%: "
+        },
+        {
+          "name": "RM 3.30",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "SST @20%: "
+        },
+        {
+          "name": "RM 6.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "CONTAINER CHARGE @10%: "
+        },
+        {
+          "name": "RM 3.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "ROUND OFF: "
+        },
+        {
+          "name": "RM 0.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "TOTAL: ",
+          "ft": "b"
+        },
+        {
+          "name": "RM 0.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "PAYMENT MODE: "
+        },
+        {
+          "name": "Unpaid",
+          "fw": 6,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "BALANCE: "
+        },
+        {
+          "name": "RM 0.00",
+          "fw": 11,
+          "ft": "b",
+          "fa": "r"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": [
+        {
+          "name": "Thank you for ordering,Visit us again"
+        }
+      ],
+      "fs": "s",
+      "ft": "n",
+      "fa": "l"
+    },
+    {
+      "key": "line",
+      "value": "-"
+    },
+    {
+      "key": "",
+      "value": "POWERED BY - EASYEAT.AI",
+      "fs": "s",
+      "ft": "b",
+      "fa": "c"
+    }
+  ]
+}
