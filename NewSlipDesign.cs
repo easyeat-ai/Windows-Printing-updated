@@ -14,7 +14,6 @@ using Newtonsoft.Json;
 using System.Linq;
 using Newtonsoft.Json.Linq;
 
-
 namespace ReceiptPrint
 {
     class NewSlipDesign
